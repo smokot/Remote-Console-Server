@@ -1,0 +1,6 @@
+﻿  SERVER.cpp
+c:\users\5fwaf\source\repos\ratnik by smokot\examplewinapi\server.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\5fwaf\source\repos\ratnik by smokot\examplewinapi\server.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\5fwaf\source\repos\ratnik by smokot\examplewinapi\server.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\5fwaf\source\repos\ratnik by smokot\examplewinapi\server.cpp(140): warning C4018: <=: несоответствие типов со знаком и без знака
+  EXAMPLEWINAPI.vcxproj -> C:\Users\5fwaf\source\repos\RATNIK BY SMOKOT\Debug\EXAMPLEWINAPI.exe
